@@ -5,4 +5,4 @@
 - 📫 You can always share a project with me on replit, email me [here](mailto:nikolaskrowland@gmail.com)
 - 😄 Pronouns: (This is such a stupid field I am not going to fill it out in protest)
 - ⚡ Fun fact: I'm just some 12 year old coder. I may lack simple weather reports but got bad*ss code. :)
-- I do stuff for [Chatterbox](https://chbx.us) which me and @jayan12k
+- I do stuff for [Chatterbox](https://chbx.us) which me and @jayan12k run
