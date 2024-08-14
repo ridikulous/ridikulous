@@ -2,7 +2,7 @@
 - Most of my stuff is on my [Replit Account](https://replit.com/@NikolasRowland)
 - 👀 I’m interested in Web Dev, python, and node.js.
 - 🌱 I’m currently learning random js and react frameworks and python libraries
-- 📫 You can always share a project with me on replit, email me [here](mailto:nikolaskrowland@gmail.com)
+- 📫 You can always share a project with me on replit, email me [here](mailto:nikolaskrowland@gmail.com), or contact me on github (I rarely check my Github though)
 - 😄 Pronouns: (This is such a stupid field I am not going to fill it out in protest)
 - ⚡ Fun fact: I'm just some 12 year old coder. I may lack simple weather reports but got bad*ss code. :)
 - I do stuff for [Chatterbox](https://chbx.us) which me and @jayan12k run
